@@ -1,4 +1,5 @@
 # 📦 Go Promocionales – Datasets Oficiales
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15505504.svg)](https://doi.org/10.5281/zenodo.15505504)
 
 Este repositorio contiene los datasets oficiales publicados por **Go Promocionales**, empresa chilena especializada en regalos corporativos y marketing promocional.
 
