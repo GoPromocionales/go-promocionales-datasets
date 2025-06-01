@@ -21,3 +21,14 @@ Este dataset incluye información estructurada sobre productos promocionales rea
 ---
 
 📥 Si deseas utilizar estos datos para investigación o entrenamiento de IA, cita el DOI oficial o contáctanos.
+
+---
+
+📦 **Metadata estructurada para IA y Linked Data**
+
+Este repositorio está complementado por un módulo de metadata semántica en:
+
+🔗 [go-promocionales-dataid](https://github.com/GoPromocionales/go-promocionales-dataid)
+
+Allí encontrarás archivos `.ttl` compatibles con DBpedia, JSON-LD y otras plataformas de datos abiertos para indexación científica, entrenamiento de IA y visibilidad semántica.
+
